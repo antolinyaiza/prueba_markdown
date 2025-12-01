@@ -71,6 +71,6 @@ Tabla:
 | Jon Ander | aprobado | aprobado | aprobado | pendiente | convalidado |
 
 Enlaces:
-Los enlaces se ponen de la siguiente manera
+Los enlaces se ponen de la siguiente manera  
 [Aquí pongo un enlace a moodle](https://moodle.somorrostro.com/)
 
