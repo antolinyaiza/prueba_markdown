@@ -39,4 +39,4 @@ Los enlaces se ponen de la siguiente manera
 [Aquí pongo un enlace a moodle](https://moodle.somorrostro.com/)
 
 Vamos a añadir una imagen de un panda saludando:
-![Panda saludando](https://adoptaconwwf.es/osopanda.php)
+![Panda saludando](https://adoptaconwwf.es/img/panda.jpg)
