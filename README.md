@@ -75,3 +75,8 @@ Citas
 Ahora vamos a separar los apartados
 ---
 Estamos terminando, ya no queda nada
+
+Lista de tareas (TO-DO List)
+- [x] Recordar que Jon Ander no está.
+- [x] Introducir el Readme.md.
+- [ ] Terminar el Readme.md y dejar tiempo para trabajar.
